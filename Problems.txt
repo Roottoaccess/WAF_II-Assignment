@@ -1,0 +1,35 @@
+Lab Exercises -1
+(Programs in ES6 /ECMAscript2015)
+[Execute the below programs and upload a Single PDF with the given
+problem statements, Codes, and outputs for all the execu ons.]
+
+1. Developing a shopping cart core func onali es for an e-commerce
+website. Create a func on that calculates the total price of items in the
+cart, regardless of how many items are added.
+
+2. You're building a user profile system. Implement a func onuser's basic info with their preferences into a single object.
+ that merges a
+
+3. In a messaging app, you want to display only the first name of a user.
+Create a func on that extracts the first name from a full name string.
+
+4. For a library management system, write a func on that extracts just the
+tles from an array of book objects.
+
+5. You're building a loading anima on for your web app. Implement a
+func on that simulates a delay using a Promise.
+
+6. For a text-forma ng tool, create a func on that converts all property
+values in an object to uppercase strings.
+
+7. For a word game, create a func on that takes an array of words and
+returns an array with the length of each word.
+
+8. In a friend-matching app, implement a func on that finds common
+interests between two users' arrays of interests.
+
+9. You're building a form valida on system. Create a func on that removes a
+specified field from an object containing form data.
+
+10. For a text analysis tool, implement a func on that counts the occurrences
+of each character in a given string.
